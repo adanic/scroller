@@ -1,10 +1,17 @@
 {
   "name": "MainScroller",
+  "repo": "adanic/scroller",
+  "description": "A scroller repository with component.json.",
   "paths": [ "src" ],
-  "dependencies": {},
+  "keywords": [
+    "scroller",
+    "component"
+  ],
+  "version": "1.0.0",
   "files" : [
     "LICENSE.txt"
   , "README.md"
   , "jasyproject.json"
   ]
 }
+
