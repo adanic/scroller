@@ -4,8 +4,8 @@
   "description": "A scroller repository with component.json.",
   "index" : "./src/Scroller.js",
   "keywords" : [
-    "scroller",
-    "component"
+    "scroller"
+  , "component"
   ],
   "version" : "1.2.2",
   "scripts" : [
