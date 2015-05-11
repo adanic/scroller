@@ -1,6 +1,6 @@
 {
-  "name": "scroller",
-  "description": "Scroller ",
+  "name": "base-scroller",
+  "description": "Base Scroller ",
   "development": {},
   "main": "./Scroller.js",
   "scripts": [
