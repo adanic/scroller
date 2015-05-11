@@ -1,5 +1,5 @@
 {
-  "name": "MainScroller",
+  "name": "Scroller",
   "repo": "adanic/scroller",
   "description": "A scroller repository with component.json.",
   "paths": [ "src" ],
