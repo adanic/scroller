@@ -2,7 +2,7 @@
   "name" : "scroller",
   "repo" : "adanic/scroller",
   "description": "A scroller repository with component.json.",
-  "index" : "./src/Scroller.js"
+  "index" : "./src/Scroller.js",
   "keywords" : [
     "scroller",
     "component"
@@ -12,7 +12,7 @@
   , "./src/Scroller.js"
   , "./src/Animate.js"
   , "./src/EasyScroller.js"
-  ]
+  ],
   "files" : [
     "LICENSE.txt"
   , "README.md"
