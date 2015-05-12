@@ -11,7 +11,11 @@
   "scripts" : [
     "src/Scroller.js",
     "src/Animate.js",
-    "src/EasyScroller.js"
-  ]
+    "src/EasyScroller.js",
+    "asset/render.js",
+    "asset/Tiling.js",
+    "asset/ui.js"
+  ],
+  "style" : ["ui.css"] 
 }
 
